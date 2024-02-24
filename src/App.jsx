@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Chai or react | Pushpendra</h1>
       <Counter />
+      <Counter />
       <Tcss />
       <Chai />
     </>
